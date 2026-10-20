@@ -3,6 +3,8 @@
 [在线体验](https://ranz-feng.github.io/personal-memory-lab/) · [源码](https://github.com/Ranz-Feng/personal-memory-lab)
 
 一个无需登录、无需后端即可体验的个人记忆系统闭环原型。页面内置“下周三去成都出差”的脱敏场景，逐步展示记忆门控、多路召回、上下文组装、回答应用、提取分类与更新遗忘。
+<img width="2906" height="1666" alt="image" src="https://github.com/user-attachments/assets/90619387-1e87-44c4-a4cf-87cf3195d3f3" />
+
 
 ## 流程判断
 
